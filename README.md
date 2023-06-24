@@ -1,6 +1,7 @@
 # Hey, this is us 🌱
 
 
-![](https://user-images.githubusercontent.com/7868679/177674945-50eab86e-18c3-4256-97a3-b83a4045db8e.png)
+<img width="1506" alt="image" src="https://github.com/opensec-cn/.github/assets/7868679/a0b6005a-7c59-4897-b0a2-11f3e01090da">
 
+<!-- 我编的的，接受反驳。 - by near -->
 
